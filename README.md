@@ -11,3 +11,10 @@ A tour ends when there are no more legal moves
 
 This program was completed as a part of an assignment for my programming 2 
 class at Florida International University
+
+Added Functionality
+===================
+After completing the original assignment, I added the ability to:
+    -Run additional sets of tours 
+    -See the output of the shortest tour in addition to the longest tour
+    -Validate input for all user given information
